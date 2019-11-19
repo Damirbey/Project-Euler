@@ -37,8 +37,10 @@ namespace ProjectEulier
 		  Console.ReadLine();
 		  }
 	}
+	
 /**********************************************************************************************************************************/
-// Function used to determine whether the number is Prime 
+
+	// Function used to determine whether the number is Prime 
 	class PrimeNumber
 	{
 		  public bool IsPrime(int num)
